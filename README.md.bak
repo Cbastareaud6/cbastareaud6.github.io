@@ -16,3 +16,5 @@ I plan to look for employment in the android app development field as soon as I 
 * Hello World:  Android app 
 
 ## Links
+
+* [LinkedIn](www.linkedin.com/in/cathy-bastareaud)
