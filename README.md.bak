@@ -11,4 +11,8 @@ I plan to look for employment in the android app development field as soon as I 
 
 ## Current projects
 
+* Hello World: Java console application
+
+* Helo World:  Android app 
+
 ## Links

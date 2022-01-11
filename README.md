@@ -13,6 +13,6 @@ I plan to look for employment in the android app development field as soon as I 
 
 * Hello World: Java console application
 
-* Helo World:  Android app 
+* Hello World:  Android app 
 
 ## Links
