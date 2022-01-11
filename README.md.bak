@@ -11,9 +11,9 @@ I plan to look for employment in the android app development field as soon as I 
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/Cbastareaud6/hello-world-java.git)
 
-* Hello World:  Android app 
+* [Hello World:  Android app](https://github.com/Cbastareaud6/hello-world-android2.git) 
 
 ## Links
 
